@@ -21,3 +21,8 @@ nav ul{
     list-style: none;
     gap: 30px;
 }
+
+.dark-nav{
+    background-color: #212EA0;
+    transition: 0.5s;
+}
