@@ -34,3 +34,8 @@ a{
     justify-content: center;
 
 }
+.drk-btn{
+    color: #fff;
+    background-color: #212EA0;
+    padding: 12px 22px;
+}
