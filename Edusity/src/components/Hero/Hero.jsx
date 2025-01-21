@@ -16,5 +16,6 @@ const Hero = () => {
     </div>
   )
 }
-import './Hero.css'
+
 export default Hero
+
